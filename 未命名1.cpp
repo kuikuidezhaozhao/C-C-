@@ -1,9 +1,10 @@
+//作业 ：今日内容背诵 、下面的程序看懂、预习for 
 #include<iostream>
 using namespace std;
 int main()
 {
 	int i,w=0,p=0,a[50],b[50];
-	for(i=1;i<=100;i++)
+	for(i=1;i<=100;i++)    //遍历1到100 的数 
 	{
 		if(i%2==0)
 		{
